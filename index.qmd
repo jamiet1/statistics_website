@@ -1,11 +1,11 @@
 ---
-title: "statistics_website"
+title: "Jamie's Personal Website"
 ---
 
-This is a Quarto website.
+---
+title: "About"
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+About this website
 
-```{r}
-1 + 1
-```
+Hello
