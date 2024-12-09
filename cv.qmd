@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+::: {.column-page}
+
+**[CV](cv.pdf)** | Personal CV
+:::
+
+<link rel="me" href="https://jamiet.netlify.app">

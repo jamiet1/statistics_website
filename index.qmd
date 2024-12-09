@@ -2,7 +2,7 @@
 title: "Jamie's Personal Website"
 about: 
   template: trestles
-  image: profile.png
+  image: image.png
   links: 
     - icon: github
       text: Github
@@ -11,28 +11,18 @@ about:
       url: "https://www.linkedin.com/in/jamie-tian/"
     - text: Email
       url: "mailto:613knj@gmail.com"
-    - text: CV
-      url: "cv.pdf"
 comments: false
 ---
-
 ::: {.column-page}
-
 ## Bio
-I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA. 
+Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA. 
 
 As a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java.
 
-I also love traveling, snorkeling, rock climbing, and volunteering at animal shelters. 
+## A little bit more about me...
+My hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters. 
 
 <p></p>
-
-## Projects
-
-**[rsi](https://github.com/jamiet1/Gravity-s-Influence-on-Astronauts-Eyelid-and-Eyebrow-Heights)** | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024
-**[waywiser](https://github.com/jamiet1/A_Research_Study_on_Arithmetic_Abilities)** | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024 
-**[spatialsample](https://github.com/jamiet1/book_rental_system)** | A Book Rental System | 2023
-
 :::
 
 <link rel="me" href="https://jamiet.netlify.app">

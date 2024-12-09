@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+::: {.column-page}
+
+**[link](https://github.com/jamiet1/Gravity-s-Influence-on-Astronauts-Eyelid-and-Eyebrow-Heights)** | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024
+
+**[link](https://github.com/jamiet1/A_Research_Study_on_Arithmetic_Abilities)** | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024 
+
+**[link](https://github.com/jamiet1/book_rental_system)** | A Book Rental System | 2023
+<p></p>
+:::
+
+<link rel="me" href="https://jamiet.netlify.app">

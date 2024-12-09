@@ -9,8 +9,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Jamie’s Personal Website",
     "section": "",
-    "text": "About this website\nHello"
+    "text": "Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA.\nAs a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java.\n\n\n\nMy hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Jamie’s Personal Website",
+    "section": "",
+    "text": "Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA.\nAs a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Jamie’s Personal Website",
+    "section": "",
+    "text": "rsi | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024 waywiser | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024 spatialsample | A Book Rental System | 2023"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "link | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024\nlink | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024\nlink | A Book Rental System | 2023\n:::"
+  },
+  {
+    "objectID": "project.html#projects",
+    "href": "project.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "link | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024\nlink | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024\nlink | A Book Rental System | 2023\n:::"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "link | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024\nlink | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024\nlink | A Book Rental System | 2023"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "link | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024\nlink | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024\nlink | A Book Rental System | 2023"
+  },
+  {
+    "objectID": "index.html#a-little-bit-more-about-me",
+    "href": "index.html#a-little-bit-more-about-me",
+    "title": "Jamie’s Personal Website",
+    "section": "",
+    "text": "My hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV | Personal CV"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV",
+    "section": "",
+    "text": "CV | Personal CV"
   }
 ]
