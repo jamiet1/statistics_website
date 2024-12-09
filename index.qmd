@@ -2,7 +2,7 @@
 title: "Jamie's Personal Website"
 about: 
   template: trestles
-  image: image.png
+  image: profile.jpeg
   links: 
     - icon: github
       text: Github
