@@ -1,14 +1,19 @@
 ---
 title: "Projects"
+listing:
+  - id: project-listing
+    contents:
+      - "project1.qmd"
+      - "project2.qmd"
+      - "project3.qmd"
+    type: table
+    fields: 
+      - title
+      - year
 ---
-::: {.column-page}
+Here are some selected projects I have done before. Please click on the projects to see the descriptions and links to the full studies. 
 
-**[link](https://github.com/jamiet1/Gravity-s-Influence-on-Astronauts-Eyelid-and-Eyebrow-Heights)** | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024
-
-**[link](https://github.com/jamiet1/A_Research_Study_on_Arithmetic_Abilities)** | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024 
-
-**[link](https://github.com/jamiet1/book_rental_system)** | A Book Rental System | 2023
-<p></p>
+:::project-listing
 :::
 
 <link rel="me" href="https://jamiet.netlify.app">

@@ -13,16 +13,15 @@ about:
       url: "mailto:613knj@gmail.com"
 comments: false
 ---
-::: {.column-page}
+
 ## Bio
 Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA. 
 
 As a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java.
 
 ## A little bit more about me...
-My hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters. 
+My hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, wildlife rescue, and volunteering at animal shelters. 
 
 <p></p>
-:::
 
 <link rel="me" href="https://jamiet.netlify.app">

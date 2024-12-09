@@ -1,0 +1,26 @@
+---
+title: "Education"
+---
+
+## School & Degree
+**University of California, Los Angeles** | June 2023 - June 2025
+
+B.S in Statistcis & Data Science
+
+## Courses
+
+**Linear Algebra** | MATH 115A | 2024
+
+**Practice of Statistical Consulting** | STATS 140XP | 2024
+
+**Computational Statistics with R** | STATS 102A | 2024
+
+**Monte Carlo Methods** | STATS 102C | 2024
+
+**Data Analysis & Regression** | STATS 101A | 2024
+
+**Design & Analysis of Experiment** | STATS 101B | 2024
+
+<p></p>
+
+<link rel="me" href="https://jamiet.netlify.app">

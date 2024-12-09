@@ -1,0 +1,12 @@
+---
+title: "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights"
+year: 2024
+---
+
+## Overview
+This project investigates how gravity impacts astronauts' eyelid and eyebrow heights by comparing measurements taken on Earth and in space. The findings provide insights into human adaptation to microgravity, which is critical for astronaut health during long-term space missions.
+
+## Link
+[Link to the full project](https://github.com/jamiet1/Gravity-s-Influence-on-Astronauts-Eyelid-and-Eyebrow-Heights)
+
+<link rel="me" href="https://jamiet.netlify.app">

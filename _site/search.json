@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Jamie’s Personal Website",
     "section": "",
-    "text": "Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA.\nAs a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java.\n\n\n\nMy hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters."
+    "text": "Hello! I am a raising Senior pursuing a Bachelor of Science in Statistcis & Data Science at UCLA.\nAs a Statistcis & Data Science major, I am passionate about working with data and programming. I love data science and machine learning. I code in Java, C++, C#, Python, R, SQL, JavaScript, HTML & CSS. I usually use R, SQL, Tableau, and MATLAB to manipulate and analyze data. My favoriate programming language is Java."
   },
   {
     "objectID": "index.html#bio",
@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "link | Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights | 2024\nlink | A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities | 2024\nlink | A Book Rental System | 2023"
+    "text": "Here are some selected projects I have done before. Please click on the projects to see the descriptions and links to the full studies.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nyear\n\n\n\n\n\n\nA Book Rental System in C++\n\n\n2023\n\n\n\n\nA Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities\n\n\n2024\n\n\n\n\nGravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights\n\n\n2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#projects",
@@ -59,8 +59,8 @@
     "objectID": "index.html#a-little-bit-more-about-me",
     "href": "index.html#a-little-bit-more-about-me",
     "title": "Jamie’s Personal Website",
-    "section": "",
-    "text": "My hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, and volunteering at animal shelters."
+    "section": "A little bit more about me…",
+    "text": "A little bit more about me…\nMy hometown is Camarillo, CA. Camarillo Premium Outlets is my favorite place there. I love traveling, snorkeling, rock climbing, wildlife rescue, and volunteering at animal shelters."
   },
   {
     "objectID": "cv.html",
@@ -75,5 +75,208 @@
     "title": "CV",
     "section": "",
     "text": "CV | Personal CV"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "University of California, Los Angeles | June 2023 - June 2025\nB.S in Statistcis & Data Science\n\n\n\nLinear Algebra | MATH 115A | 2024\nPractice of Statistical Consulting | STATS 140XP | 2024\nComputational Statistics with R | STATS 102A | 2024\nMonte Carlo Methods | STATS 102C | 2024\nData Analysis & Regression | STATS 101A | 2024\nDesign & Analysis of Experiment | STATS 101B | 2024"
+  },
+  {
+    "objectID": "education.html#school-degree",
+    "href": "education.html#school-degree",
+    "title": "Education",
+    "section": "",
+    "text": "University of California, Los Angeles | June 2023 - June 2025\nB.S in Statistcis & Data Science"
+  },
+  {
+    "objectID": "education.html#courses",
+    "href": "education.html#courses",
+    "title": "Education",
+    "section": "",
+    "text": "Linear Algebra | MATH 115A | 2024\nPractice of Statistical Consulting | STATS 140XP | 2024\nComputational Statistics with R | STATS 102A | 2024\nMonte Carlo Methods | STATS 102C | 2024\nData Analysis & Regression | STATS 101A | 2024\nDesign & Analysis of Experiment | STATS 101B | 2024"
+  },
+  {
+    "objectID": "projects_files/project3.html",
+    "href": "projects_files/project3.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "A Book Rental System in C++\n\n\n\nThis program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books.\n\n\n\nLink to the full project"
+  },
+  {
+    "objectID": "projects_files/project3.html#title",
+    "href": "projects_files/project3.html#title",
+    "title": "Project 3",
+    "section": "",
+    "text": "A Book Rental System in C++"
+  },
+  {
+    "objectID": "projects_files/project3.html#abstract",
+    "href": "projects_files/project3.html#abstract",
+    "title": "Project 3",
+    "section": "",
+    "text": "This program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books."
+  },
+  {
+    "objectID": "projects_files/project3.html#link",
+    "href": "projects_files/project3.html#link",
+    "title": "Project 3",
+    "section": "",
+    "text": "Link to the full project"
+  },
+  {
+    "objectID": "projects_files/project2.html",
+    "href": "projects_files/project2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities\n\n\n\nNumerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music’s neuroadaptive capabilities.\n\n\n\nLink to the full project"
+  },
+  {
+    "objectID": "projects_files/project2.html#title",
+    "href": "projects_files/project2.html#title",
+    "title": "Project 2",
+    "section": "",
+    "text": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities"
+  },
+  {
+    "objectID": "projects_files/project2.html#abstract",
+    "href": "projects_files/project2.html#abstract",
+    "title": "Project 2",
+    "section": "",
+    "text": "Numerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music’s neuroadaptive capabilities."
+  },
+  {
+    "objectID": "projects_files/project2.html#link",
+    "href": "projects_files/project2.html#link",
+    "title": "Project 2",
+    "section": "",
+    "text": "Link to the full project"
+  },
+  {
+    "objectID": "projects_files/project1.html",
+    "href": "projects_files/project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights\n\n\n\nThis project investigates how gravity impacts astronauts’ eyelid and eyebrow heights by comparing measurements taken on Earth and in space. The findings provide insights into human adaptation to microgravity, which is critical for astronaut health during long-term space missions.\n\n\n\nLink to the full project"
+  },
+  {
+    "objectID": "projects_files/project1.html#title",
+    "href": "projects_files/project1.html#title",
+    "title": "Project 1",
+    "section": "",
+    "text": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights"
+  },
+  {
+    "objectID": "projects_files/project1.html#overview",
+    "href": "projects_files/project1.html#overview",
+    "title": "Project 1",
+    "section": "",
+    "text": "This project investigates how gravity impacts astronauts’ eyelid and eyebrow heights by comparing measurements taken on Earth and in space. The findings provide insights into human adaptation to microgravity, which is critical for astronaut health during long-term space missions."
+  },
+  {
+    "objectID": "projects_files/project1.html#link",
+    "href": "projects_files/project1.html#link",
+    "title": "Project 1",
+    "section": "",
+    "text": "Link to the full project"
+  },
+  {
+    "objectID": "projects_files/project3.html#overview",
+    "href": "projects_files/project3.html#overview",
+    "title": "Project 3",
+    "section": "",
+    "text": "This program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books."
+  },
+  {
+    "objectID": "projects_files/project2.html#overview",
+    "href": "projects_files/project2.html#overview",
+    "title": "Project 2",
+    "section": "",
+    "text": "Numerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music’s neuroadaptive capabilities."
+  },
+  {
+    "objectID": "project1.html",
+    "href": "project1.html",
+    "title": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights",
+    "section": "",
+    "text": "This project investigates how gravity impacts astronauts’ eyelid and eyebrow heights by comparing measurements taken on Earth and in space. The findings provide insights into human adaptation to microgravity, which is critical for astronaut health during long-term space missions."
+  },
+  {
+    "objectID": "project1.html#title",
+    "href": "project1.html#title",
+    "title": "Project 1",
+    "section": "",
+    "text": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights"
+  },
+  {
+    "objectID": "project1.html#overview",
+    "href": "project1.html#overview",
+    "title": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights",
+    "section": "",
+    "text": "This project investigates how gravity impacts astronauts’ eyelid and eyebrow heights by comparing measurements taken on Earth and in space. The findings provide insights into human adaptation to microgravity, which is critical for astronaut health during long-term space missions."
+  },
+  {
+    "objectID": "project1.html#link",
+    "href": "project1.html#link",
+    "title": "Gravity’s Influence on Astronauts’ Eyelid and Eyebrow Heights",
+    "section": "Link",
+    "text": "Link\nLink to the full project"
+  },
+  {
+    "objectID": "project2.html",
+    "href": "project2.html",
+    "title": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities",
+    "section": "",
+    "text": "Numerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music’s neuroadaptive capabilities."
+  },
+  {
+    "objectID": "project2.html#title",
+    "href": "project2.html#title",
+    "title": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities",
+    "section": "",
+    "text": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities"
+  },
+  {
+    "objectID": "project2.html#overview",
+    "href": "project2.html#overview",
+    "title": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities",
+    "section": "",
+    "text": "Numerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music’s neuroadaptive capabilities."
+  },
+  {
+    "objectID": "project2.html#link",
+    "href": "project2.html#link",
+    "title": "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities",
+    "section": "Link",
+    "text": "Link\nLink to the full project"
+  },
+  {
+    "objectID": "project3.html",
+    "href": "project3.html",
+    "title": "A Book Rental System in C++",
+    "section": "",
+    "text": "This program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books."
+  },
+  {
+    "objectID": "project3.html#title",
+    "href": "project3.html#title",
+    "title": "A Book Rental System in C++",
+    "section": "",
+    "text": "A Book Rental System in C++"
+  },
+  {
+    "objectID": "project3.html#overview",
+    "href": "project3.html#overview",
+    "title": "A Book Rental System in C++",
+    "section": "",
+    "text": "This program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books."
+  },
+  {
+    "objectID": "project3.html#link",
+    "href": "project3.html#link",
+    "title": "A Book Rental System in C++",
+    "section": "Link",
+    "text": "Link\nLink to the full project"
   }
 ]

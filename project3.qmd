@@ -1,0 +1,12 @@
+---
+title: "A Book Rental System in C++"
+year: 2023
+---
+## Overview
+This program simulates a book rental system in a library, catering to three types of books, which are children books (code: 1001 - 2000), computer books (code: 2001 - 3000), and novels (code: 3001 - 4000). Additionally, it manages two groups of people, which are teachers (code: 1 - 100) and students (code: 101 - 300). Teachers can borrow up to three books, while students can borrow up to two books.
+
+## Link
+[Link to the full project](https://github.com/jamiet1/book_rental_system)
+
+
+<link rel="me" href="https://jamiet.netlify.app">

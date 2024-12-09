@@ -1,0 +1,14 @@
+---
+title: "A Research Study on Islanders to Determine the Effect of Playing Musical Instruments on Mental Arithmetic Abilities"
+year: 2024
+---
+
+
+## Overview
+Numerous prior studies indicate that mental exercises and sensory stimulation can enhance cognitive functions, particularly arithmetic abilities. This study explores non-pharmacological interventions, specifically music training (MT), known for its broad cognitive benefits, including enhancements in memory, attention, and mathematical skills. By examining the effects of MT on cognitive function, particularly in educational and therapeutic contexts, we aim to contribute to the understanding of music's neuroadaptive capabilities.
+
+## Link
+
+[Link to the full project](https://github.com/jamiet1/A_Research_Study_on_Arithmetic_Abilities)
+
+<link rel="me" href="https://jamiet.netlify.app">
